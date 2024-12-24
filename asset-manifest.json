@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dharsinijagadeesan.github.io/CRUD-App-ReactJS/static/css/main.2c33dff2.css",
+    "main.js": "/dharsinijagadeesan.github.io/CRUD-App-ReactJS/static/js/main.cbd03fd8.js",
+    "static/js/453.b5b22ff8.chunk.js": "/dharsinijagadeesan.github.io/CRUD-App-ReactJS/static/js/453.b5b22ff8.chunk.js",
+    "index.html": "/dharsinijagadeesan.github.io/CRUD-App-ReactJS/index.html",
+    "main.2c33dff2.css.map": "/dharsinijagadeesan.github.io/CRUD-App-ReactJS/static/css/main.2c33dff2.css.map",
+    "main.cbd03fd8.js.map": "/dharsinijagadeesan.github.io/CRUD-App-ReactJS/static/js/main.cbd03fd8.js.map",
+    "453.b5b22ff8.chunk.js.map": "/dharsinijagadeesan.github.io/CRUD-App-ReactJS/static/js/453.b5b22ff8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c33dff2.css",
+    "static/js/main.cbd03fd8.js"
+  ]
+}
